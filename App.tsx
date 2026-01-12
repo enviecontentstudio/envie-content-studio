@@ -206,7 +206,7 @@ const Offers: React.FC = () => {
               "4 reels",
               "Stratégie de contenu",
               "Captions optimisées",
-              "Recherche hashtags"
+              "Optimisation SEO Instagram (bio + mots-clés)"
             ]}
           />
           <PricingCard 
