@@ -12,7 +12,7 @@ import {
 } from 'lucide-react';
 
 // --- Constants ---
-const PRIMARY_CTA_URL = "https://tally.so/r/XXXXXX";
+const PRIMARY_CTA_URL = "https://tally.so/r/jaooKJ";
 const BRAND_NAME = "ENVIE CONTENT STUDIO";
 
 const FAQ_DATA = [
